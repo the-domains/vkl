@@ -1,0 +1,14 @@
+layout_spectrum: 0.01772286
+color:
+  saturation: 0
+  lightness: 0.9393126
+  brandStrength: 0.3704916
+  rhythmicContrast: 0.2400644
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.01026663
+name: vkl
